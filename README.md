@@ -6,7 +6,9 @@ This a collection of resources oriented to learn PyTorch 📚
 
 ## Table of contents
 
-- [0.Tensors](https://github.com/aaronespasa/pytorch-notes/blob/main/0.Tensors.ipynb): Learn how to work with tensors.
+- [0. Tensors](https://github.com/aaronespasa/pytorch-notes/blob/main/0.Tensors.ipynb): Learn how to work with tensors.
+- [1. Neural Network basics](https://github.com/aaronespasa/pytorch-notes/blob/main/1.Neural-Network.ipynb): Learn how to create a simple Neural Network.
+
 
 ## Acknowledgements
 
