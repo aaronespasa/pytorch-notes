@@ -130,3 +130,6 @@ dmypy.json
 
 # Folder of datasets
 data/
+
+# Folder of checkpoints
+checkpoints/
