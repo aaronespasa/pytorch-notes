@@ -8,6 +8,7 @@ This a collection of resources oriented to learn PyTorch 📚
 
 - [0. Tensors](https://github.com/aaronespasa/pytorch-notes/blob/main/0.Tensors.ipynb): Learn how to work with tensors.
 - [1. Neural Network basics](https://github.com/aaronespasa/pytorch-notes/blob/main/1.Neural-Network.ipynb): Learn how to create a simple Neural Network.
+- [2. Custom Dataset](https://github.com/aaronespasa/pytorch-notes/blob/main/2.Custom-Dataset.ipynb): Learn how to create a custom dataset.
 
 ## Models
 - [x] [Simple CNN](https://github.com/aaronespasa/pytorch-notes/blob/main/models/SimpleCNN.py): Used to model the MNIST dataset of 28x28 images.
