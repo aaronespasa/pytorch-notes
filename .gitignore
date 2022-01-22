@@ -133,3 +133,6 @@ data/
 
 # Folder of checkpoints
 checkpoints/
+
+# MacOS Files
+.DS_Store
