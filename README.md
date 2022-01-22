@@ -12,6 +12,10 @@ This a collection of resources oriented to learn PyTorch 📚
 
 ## Models
 - [x] [Simple CNN](https://github.com/aaronespasa/pytorch-notes/blob/main/models/SimpleCNN.py): Used to model the MNIST dataset of 28x28 images.
+- [ ] [EfficientNet]()
+- [ ] [Vision Transformer]()
+- [ ] [MLP-Mixer]()
+- [ ] [PonderNet]()
 
 ## Acknowledgements
 
