@@ -12,6 +12,10 @@ This a collection of resources oriented to learn PyTorch 📚
 
 ## Models
 - [x] [Simple CNN](https://github.com/aaronespasa/pytorch-notes/blob/main/models/SimpleCNN.py): Used to model the MNIST dataset of 28x28 images.
+- [ ] [EfficientNet]()
+- [ ] [Vision Transformer]()
+- [ ] [MLP-Mixer]()
+- [ ] [PonderNet]()
 
 ## Acknowledgements
 
@@ -19,4 +23,5 @@ The following contents have been pretty useful at the time of learning PyTorch:
 
 - [Computer Vision Nanodegree from Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 - [PyTorch Tutorials from Aladdin Persson](https://youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+- [GitHub Adventures from mildlyoverfitted](https://www.youtube.com/playlist?list=PLDW9q3PQf5VI0X5ozC3dDgbld8S4lrBuL)
 - [PyTorch Tutorials from the official website](https://pytorch.org/tutorials/)
