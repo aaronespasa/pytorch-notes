@@ -131,6 +131,7 @@ dmypy.json
 # Folder of datasets
 data/
 augmented-datasets/
+dataset/PennFudanPed
 
 # Folder of checkpoints
 checkpoints/
